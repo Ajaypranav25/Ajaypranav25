@@ -38,7 +38,12 @@
 - Focused on **form handling, validations, and backend flow**
 - Tech Stack: `Python`, `Flask`, `HTML`, `CSS`
 
-> 🔨 More projects coming soon as I explore advanced concepts and real-world problems.
+### 🚕 VIT Cab Share
+- Web application for coordinating cab sharing among VIT students  
+- Implemented **Google OAuth 2.0 authentication** restricted to institutional emails  
+- Designed relational database models and enforced booking constraints to prevent double bookings  
+- Implemented secure session handling and protected routes  
+- Tech Stack: `Python`, `Flask`, `SQLAlchemy`, `OAuth`, `SQLite`
 
 ---
 
