@@ -17,7 +17,8 @@
 - **Web Development:**  
   - HTML, CSS  
   - Flask (Python)  
-  - Basic frontend & backend concepts  
+  - Basic frontend & backend concepts
+  - Django
 
 - **Core CS Concepts:**  
   - Data Structures & Algorithms (Python)  
