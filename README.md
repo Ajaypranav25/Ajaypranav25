@@ -33,7 +33,7 @@
 - A platform where companies post tasks and users complete them to earn rewards  
 - Built to understand **full-stack development, API design, AI integration, and user progression systems**  
 - Includes features like **task management, AI-based evaluation, and level-based access control**  
-- Tech Stack: `Python (Django)`, `Django REST Framework`, `JavaScript (React / HTML-CSS)`, `SQLite/PostgreSQL`, `OpenAI API`
+- Tech Stack: `Python (Django)`, `Django REST Framework`, `JavaScript (React / HTML-CSS)`, `SQLite/PostgreSQL`, `Anthropic API`
 
 ### 📝 To-Do List Application
 - A simple CRUD-based task manager  
