@@ -29,6 +29,12 @@
 
 ## 📌 Projects
 
+### 💼 AI-Based Task Marketplace with Level System  
+- A platform where companies post tasks and users complete them to earn rewards  
+- Built to understand **full-stack development, API design, AI integration, and user progression systems**  
+- Includes features like **task management, AI-based evaluation, and level-based access control**  
+- Tech Stack: `Python (Django)`, `Django REST Framework`, `JavaScript (React / HTML-CSS)`, `SQLite/PostgreSQL`, `OpenAI API`
+
 ### 📝 To-Do List Application
 - A simple CRUD-based task manager  
 - Built to understand **backend logic, routing, and data handling**
@@ -51,7 +57,7 @@
 ## 📚 What I’m Currently Learning
 
 - 📘 Data Structures & Algorithms in **Python**
-- 🌐 Backend development using **Flask**
+- 🌐 Backend development using **Django**
 - ⚛️ Planning to learn **React** and modern frontend tools
 - 🧠 Improving problem-solving & coding consistency
 
