@@ -1,97 +1,78 @@
+# Hi, I'm Ajay Pranav
 
-# 👋 Hi, I'm Ajay Pranav
+CS student at VIT Vellore — I learn by building, not by following tutorials.
 
-🎓 First-year Computer Science student at **VIT Vellore**  
-💻 Passionate about **software development, problem solving, and learning by building**  
-📌 Exploring software development by combining theory with real-world projects
-
----
-
-## 🔧 Skills & Technologies
-
-- **Programming Languages:**  
-  - Python  
-  - C / C++ (basic)  
-  - JavaScript  
-
-- **Web Development:**  
-  - HTML, CSS  
-  - Flask (Python)  
-  - Basic frontend & backend concepts
-  - Django
-
-- **Core CS Concepts:**  
-  - Data Structures & Algorithms (Python)  
-  - Object-Oriented Programming  
-  - Basic DB concepts  
+Drawn to full-stack development, AI integration, and projects that solve real problems.
 
 ---
 
-## 📌 Projects
+## Skills
 
-### 💼 AI-Based Task Marketplace with Level System  
-- A platform where companies post tasks and users complete them to earn rewards  
-- Built to understand **full-stack development, API design, AI integration, and user progression systems**  
-- Includes features like **task management, AI-based evaluation, and level-based access control**  
-- Tech Stack: `Python (Django)`, `Django REST Framework`, `JavaScript (React / HTML-CSS)`, `SQLite/PostgreSQL`, `Anthropic API`
+**Languages:** Python · JavaScript · C/C++ (basics)
 
-### 📝 To-Do List Application
-- A simple CRUD-based task manager  
-- Built to understand **backend logic, routing, and data handling**
-- Tech Stack: `Python`, `Flask`, `HTML`, `CSS`
+**Backend:** Django · Django REST Framework · Flask · SQLAlchemy · REST API design
 
-### 🗳️ Online Voting Website
-- A basic voting system with user interaction  
-- Focused on **form handling, validations, and backend flow**
-- Tech Stack: `Python`, `Flask`, `HTML`, `CSS`
+**Frontend:** React · HTML · CSS
+
+**Tools & Concepts:** SQLite · PostgreSQL · OAuth 2.0 · OOP · Data Structures & Algorithms
+
+---
+
+## Projects
+
+### 🤖 AI-Based Task Marketplace *(main project)*
+Platform where companies post tasks and users complete them for rewards — with AI-driven evaluation and level-based access control.
+
+Built to understand every layer of a real product: authentication, DB design, REST API, and AI integration.
+
+`Django` `Django REST Framework` `React` `PostgreSQL` `Anthropic API`
+
+---
 
 ### 🚕 VIT Cab Share
-- Web application for coordinating cab sharing among VIT students  
-- Implemented **Google OAuth 2.0 authentication** restricted to institutional emails  
-- Designed relational database models and enforced booking constraints to prevent double bookings  
-- Implemented secure session handling and protected routes  
-- Tech Stack: `Python`, `Flask`, `SQLAlchemy`, `OAuth`, `SQLite`
+Cab coordination web app for VIT students.
+
+- Google OAuth 2.0 restricted to institutional emails
+- Relational DB models with double-booking prevention
+- Secure session handling and protected routes
+
+`Flask` `SQLAlchemy` `OAuth 2.0` `SQLite`
 
 ---
 
-## 📚 What I’m Currently Learning
+### ✅ To-Do List App
+CRUD task manager built to solidify backend routing and data handling fundamentals.
 
-- 📘 Data Structures & Algorithms in **Python**
-- 🌐 Backend development using **Django**
-- ⚛️ Planning to learn **React** and modern frontend tools
-- 🧠 Improving problem-solving & coding consistency
+`Python` `Flask` `HTML` `CSS`
 
 ---
 
-## 🎯 Goals
+### 🗳️ Online Voting Website
+Voting system with user interaction, form validation, and clean backend flow.
 
-- Build **impactful, non-tutorial projects**
-- Gain **industry-relevant skills** step by step
-- Contribute to **open-source projects**
-
----
-
-## 🤝 Connect With Me
-
-- 📧 Email: *ajaypranav25@gmail,com*    
-- 🌐 GitHub: *github.com/Ajaypranav25*
+`Python` `Flask` `HTML` `CSS`
 
 ---
 
-⭐ If you like my work, feel free to **star** my repositories!
+## Currently Learning
 
+- 📘 DSA in Python — consistency over speed
+- 🌐 Django REST Framework in depth
+- ⚛️ React and modern frontend tooling
 
-<!--
-**Ajaypranav25/Ajaypranav25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Goals
 
-Here are some ideas to get you started:
+- Ship impactful, non-tutorial projects
+- Build industry-relevant skills step by step
+- Contribute to open-source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Connect
+
+- 📧 [ajaypranav25@gmail.com](mailto:ajaypranav25@gmail.com)
+- 🐙 [github.com/Ajaypranav25](https://github.com/Ajaypranav25)
+
+---
+
+*⭐ Star a repo if something's useful to you — all feedback welcome.*
