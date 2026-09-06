@@ -156,13 +156,13 @@ hobbies: [Algorithmic problem solving, exploring LLM agentic patterns, fintech s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ajaypranav25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" alt="Ajay's GitHub Stats" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=Ajaypranav25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" alt="Ajay's GitHub Stats" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaypranav25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ajaypranav25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" height="165" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaypranav25&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" alt="GitHub Streak" width="85%" />
+<img src="https://streak-stats.demolab.com/?user=Ajaypranav25&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" alt="GitHub Streak" width="85%" />
 
 </div>
 
