@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaypranav25@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajaypranav25)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Ajaypranav25)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-two-snowy-94.vercel.app/)
 
 </div>
 
@@ -25,6 +25,7 @@
 ```yaml
 name: Ajay Pranav
 education: B.Tech in Computer Science & Engineering @ VIT Vellore
+portfolio: https://portfolio-two-snowy-94.vercel.app/
 focus: Full-Stack Architecture, Intelligent Systems & Distributed Backend Engineering
 philosophy: "I learn by building real products, not by endlessly watching tutorials."
 current_quest: Developing end-to-end AI-powered platforms with bulletproof backends
@@ -176,6 +177,10 @@ Have a project idea, want to collaborate on an open-source tool, or just talk te
 
 <br/>
 
+<a href="https://portfolio-two-snowy-94.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+</a>
+&nbsp;&nbsp;
 <a href="mailto:ajaypranav25@gmail.com">
   <img src="https://img.shields.io/badge/Say_Hello-ajaypranav25@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ajay" />
 </a>
