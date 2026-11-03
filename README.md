@@ -17,9 +17,9 @@
 
 ## Right now &nbsp;<sub><sup>· November 2026</sup></sub>
 
-- 🧠 **Building [LIEFS](https://github.com/Ajaypranav25/LIEFS)**, an LLM inference engine written in raw PyTorch. It runs any Hugging Face model through five engines (naive → KV-cache → continuous batching → paged attention → INT8) and benchmarks your hardware.
-- ⏪ **Designing [Hindsight](https://github.com/Ajaypranav25/Hindsight)**, a small programming language whose VM records every step, so you can scrub execution *backwards*.
-- 🎓 **Studying** B.Tech Computer Science & Engineering at **VIT Vellore**.
+- **Building [LIEFS](https://github.com/Ajaypranav25/LIEFS)**, an LLM inference engine written in raw PyTorch. It runs any Hugging Face model through five engines (naive → KV-cache → continuous batching → paged attention → INT8) and benchmarks your hardware.
+- **Designing [Hindsight](https://github.com/Ajaypranav25/Hindsight)**, a small programming language whose VM records every step, so you can scrub execution *backwards*.
+- **Studying** B.Tech Computer Science & Engineering at **VIT Vellore**.
 
 ```ts
 const ajay = {
@@ -117,9 +117,9 @@ Keeps a Bayesian belief over a hidden target, plans against a limited battery, a
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajaypranav25/Ajaypranav25/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ajaypranav25/Ajaypranav25/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Ajaypranav25/Ajaypranav25/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajaypranav25/Ajaypranav25/output/snake-violet-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ajaypranav25/Ajaypranav25/output/snake-violet-light.svg" />
+  <img src="https://raw.githubusercontent.com/Ajaypranav25/Ajaypranav25/output/snake-violet-dark.svg" alt="Contribution snake" width="100%" />
 </picture>
 
 </div>
