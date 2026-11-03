@@ -117,9 +117,9 @@ Keeps a Bayesian belief over a hidden target, plans against a limited battery, a
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajaypranav25/Ajaypranav25/output/snake-violet-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ajaypranav25/Ajaypranav25/output/snake-violet-light.svg" />
-  <img src="https://raw.githubusercontent.com/Ajaypranav25/Ajaypranav25/output/snake-violet-dark.svg" alt="Contribution snake" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajaypranav25/Ajaypranav25/output/snake-green-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ajaypranav25/Ajaypranav25/output/snake-green-light.svg" />
+  <img src="https://raw.githubusercontent.com/Ajaypranav25/Ajaypranav25/output/snake-green-dark.svg" alt="Contribution snake" width="100%" />
 </picture>
 
 </div>
