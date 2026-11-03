@@ -1,197 +1,189 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36&height=220&section=header&text=Ajay%20Pranav&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Integration%20Enthusiast%20%E2%80%A2%20CS%20%40%20VIT%20Vellore&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Ajay Pranav Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:3730a3,100:7c3aed&height=230&section=header&text=Ajay%20Pranav&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=I%20build%20systems%20that%20think%20%E2%80%94%20LLM%20engines%20%C2%B7%20dev%20tools%20%C2%B7%20full-stack%20products&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Ajay Pranav" />
 
-<!-- Typing Animated Subtitle -->
-<a href="https://github.com/Ajaypranav25">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%26+Problem+Solver;AI+Integration+%26+Backend+Architect;CS+Student+%40+VIT+Vellore;I+learn+by+building%2C+not+just+tutorials;Django+%2B+React+%2B+Python+%2B+PostgreSQL" alt="Typing SVG" />
+<a href="https://portfolio-two-snowy-94.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Writing+an+LLM+inference+engine+from+scratch;Designing+a+language+with+a+time+machine+built+in;Shipping+AI-native+web+apps+end+to+end;Open-source+contributor+%C2%B7+CSE+%40+VIT+Vellore" alt="What I'm doing" />
 </a>
 
-<br/>
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaypranav25@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajaypranav25)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-two-snowy-94.vercel.app/)
+<p>
+  <a href="https://portfolio-two-snowy-94.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ajay-pranav-balakrishnan-95a992375"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ajaypranav25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Ajaypranav25&style=for-the-badge&color=3730a3&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 </div>
 
----
+## ⚡ Right now &nbsp;<sub><sup>· November 2026</sup></sub>
 
-### 💫 About Me
+- 🧠 **Building [LIEFS](https://github.com/Ajaypranav25/LIEFS)**, an LLM inference engine written in raw PyTorch. It runs any Hugging Face model through five engines (naive → KV-cache → continuous batching → paged attention → INT8) and benchmarks your hardware.
+- ⏪ **Designing [Hindsight](https://github.com/Ajaypranav25/Hindsight)**, a small programming language whose VM records every step, so you can scrub execution *backwards*.
+- 🦀 **Contributing to [AiDEX](https://github.com/Astraive/AiDEX)**: 6 merged PRs covering the desktop app and the installer.
+- 🎓 **Studying** B.Tech Computer Science & Engineering at **VIT Vellore**.
 
-```yaml
-name: Ajay Pranav
-education: B.Tech in Computer Science & Engineering @ VIT Vellore
-portfolio: https://portfolio-two-snowy-94.vercel.app/
-focus: Full-Stack Architecture, Intelligent Systems & Distributed Backend Engineering
-philosophy: "I learn by building real products, not by endlessly watching tutorials."
-current_quest: Developing end-to-end AI-powered platforms with bulletproof backends
-hobbies: [Algorithmic problem solving, exploring LLM agentic patterns, fintech systems]
+```ts
+const ajay = {
+  focus:      ["LLM systems", "developer tools", "AI-native web apps"],
+  languages:  ["Python", "TypeScript", "Rust", "C++", "SQL"],
+  principle:  "Ship it tested, deployed and documented, not just demoed.",
+  askMeAbout: ["inference internals", "agent design", "full-stack architecture"],
+};
 ```
 
-- 🎓 **Student & Builder**: Computer Science undergraduate at **Vellore Institute of Technology (VIT)**.
-- 💻 **Engineering Stack**: Specializing in **Python, Django REST Framework, React, and PostgreSQL**.
-- 🤖 **AI Integration**: Bridging intelligent LLM models into production web applications and native tools.
-- ⚡ **Product-Minded**: Focused on authentication architectures (OAuth 2.0), relational database integrity, and scalable REST APIs.
-- 💬 **Ask me about**: Full-stack web development, building AI agents, Django REST APIs, or system design fundamentals.
-
----
-
-### 🛠️ Tech Stack & Toolbox
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,django,flask,fastapi,react,tailwind,html,css,postgres,sqlite,git,github,docker,postman&perline=9" alt="Tech Stack Icons" />
-
-</div>
-
-<br/>
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `Python`, `JavaScript`, `TypeScript`, `C`, `C++`, `SQL` |
-| **Backend & APIs** | `Django`, `Django REST Framework (DRF)`, `Flask`, `FastAPI`, `SQLAlchemy`, `REST APIs` |
-| **Frontend** | `React`, `Tailwind CSS`, `HTML5`, `CSS3`, `Vite` |
-| **Databases** | `PostgreSQL`, `SQLite`, `Redis` |
-| **AI & Automation** | `Anthropic API`, `OpenAI / Gemini APIs`, `OCR & Vector Search`, `Local LLM Workflows` |
-| **DevOps & Tools** | `Git`, `GitHub`, `Docker`, `Postman`, `Linux / Bash`, `VS Code` |
-
----
-
-### 🚀 Featured Projects
+## 🚀 Featured work
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 TaskMarket</h3>
-      <p align="center">
-        <a href="https://github.com/Ajaypranav25/TaskMarket">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="TaskMarket">
-        </a>
-      </p>
-      <p><strong>AI-Evaluated Task Marketplace</strong> — A comprehensive platform where organizations post tasks and users complete them for rewards, with automated AI-driven evaluation and role-based access control.</p>
-      <ul>
-        <li>End-to-end full stack architecture & multi-tenant auth</li>
-        <li>Automated evaluation engine powered by LLM integrations</li>
-        <li>Relational database schema with transactional integrity</li>
-      </ul>
-      <p align="center">
-        <code>Django</code> <code>DRF</code> <code>React</code> <code>PostgreSQL</code> <code>Anthropic API</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔍 Local Screenshot Search Engine</h3>
-      <p align="center">
-        <a href="https://github.com/Ajaypranav25/Smart-Local-Screenshot-Search-Engine">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Smart Local Screenshot Search Engine">
-        </a>
-      </p>
-      <p><strong>Intelligent Semantic Search for Desktop</strong> — Local offline search engine that processes desktop screenshots using OCR and vector embeddings for instant natural language retrieval.</p>
-      <ul>
-        <li>Privacy-first local OCR and text extraction</li>
-        <li>Fast semantic similarity search over stored visual captures</li>
-        <li>Zero cloud dependency with high-performance indexing</li>
-      </ul>
-      <p align="center">
-        <code>Python</code> <code>OCR</code> <code>Vector Embeddings</code> <code>SQLite</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📁 AI File Classifier</h3>
-      <p align="center">
-        <a href="https://github.com/Ajaypranav25/ai-file-classifier">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="AI File Classifier">
-        </a>
-      </p>
-      <p><strong>Smart Autonomous Filesystem Organizer</strong> — Content-aware desktop utility that analyzes document contents using LLMs to automatically categorize, tag, and organize files.</p>
-      <ul>
-        <li>Deep content parsing across multiple document formats</li>
-        <li>Contextual clustering & dynamic directory reorganization</li>
-      </ul>
-      <p align="center">
-        <code>Python</code> <code>LLMs</code> <code>Automation</code> <code>CLI</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚕 VIT Cab Share</h3>
-      <p align="center">
-        <a href="https://github.com/Ajaypranav25/vitcabshare">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="VIT Cab Share">
-        </a>
-      </p>
-      <p><strong>Campus Ride Coordination Network</strong> — Dedicated cab sharing platform for VIT students to coordinate airport and station travel.</p>
-      <ul>
-        <li>Google OAuth 2.0 restricted to institutional emails</li>
-        <li>Relational database schema with double-booking prevention</li>
-        <li>Protected sessions & automated trip grouping</li>
-      </ul>
-      <p align="center">
-        <code>Flask</code> <code>SQLAlchemy</code> <code>OAuth 2.0</code> <code>SQLite</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">📈 AlgoTrader</h3>
-      <p align="center">
-        <a href="https://github.com/Ajaypranav25/algotrader">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="AlgoTrader">
-        </a>
-      </p>
-      <p align="center"><strong>Automated Algorithmic Trading Engine</strong> — Systematic trading framework supporting backtesting, technical indicator calculation, and real-time execution pipelines.</p>
-      <p align="center">
-        <code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Financial APIs</code> <code>Strategy Automation</code>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [LIEFS](https://github.com/Ajaypranav25/LIEFS)
+**An LLM inference engine and hardware benchmark, built from scratch**
+
+Load any Hugging Face model and compare five inference engines side by side. Each run profiles your CPU/GPU, measures achieved memory bandwidth, and gives the machine a performance-tier score.
+
+<code>PyTorch</code> <code>Paged Attention</code> <code>INT8</code> <code>FastAPI</code> <code>React</code>
+
+</td>
+<td width="50%" valign="top">
+
+### ⏪ [Hindsight](https://github.com/Ajaypranav25/Hindsight)
+**A tiny language with a time machine built in**
+
+A bytecode VM that records its own execution. You can step in, over and out *in both directions*, ask any variable where its value came from, and watch the heap rewire as you scrub. Rebuilding any step takes under 1 ms.
+
+<code>TypeScript</code> <code>Compiler</code> <code>Bytecode VM</code> <code>Vite</code>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ [Driftwatch](https://github.com/Ajaypranav25/Website-Change-Detector)
+**Website change detection that ignores the noise**
+
+Renders pages in headless Chromium, masks timestamps, ads and tokens, and confirms every change with a second render. Alerts go to email, Telegram or Discord. A URL watched by 200 users is fetched only once.
+
+<code>Next.js 15</code> <code>BullMQ</code> <code>Redis</code> <code>Playwright</code> <code>Prisma</code> <code>PostgreSQL</code>
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ [thaniththuvam](https://github.com/Ajaypranav25/thaniththuvam) &nbsp;<a href="https://thaniththuvam.vercel.app"><img src="https://img.shields.io/badge/live-22c55e?style=flat-square&logo=vercel&logoColor=white" alt="live" /></a>
+**How unique is your project idea?**
+
+Searches GitHub for overlapping projects, reads their READMEs and most-requested issues, and returns a uniqueness score, a competitor map and an impact-vs-effort plan for standing out. Progress streams live from the server as NDJSON.
+
+<code>Next.js 16</code> <code>Gemini</code> <code>GitHub API</code> <code>Rank fusion</code>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [WALL-E & EVE's Signal](https://github.com/Ajaypranav25/WALL-E-and-EVE-s-Signal) &nbsp;<a href="https://wall-e-and-eve-s-signal.vercel.app"><img src="https://img.shields.io/badge/live-22c55e?style=flat-square&logo=vercel&logoColor=white" alt="live" /></a>
+**An autonomous agent that reasons under uncertainty**
+
+Keeps a Bayesian belief over a hidden target, plans against a limited battery, and can hand strategy to Claude. Every mission replays in a React visualizer with a belief heatmap. 98 tests, ~97% coverage.
+
+<code>Python</code> <code>FastAPI</code> <code>Bayesian inference</code> <code>Claude</code> <code>React</code>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 [Index](https://github.com/Ajaypranav25/ai-file-classifier)
+**Private semantic search over your screenshots and downloads**
+
+Watches your folders, OCRs and embeds every new file with CLIP, classifies it, and stores it in LanceDB. Searches like *"that terminal error from last week"* work. Nothing leaves your machine.
+
+<code>CLIP</code> <code>LanceDB</code> <code>OCR</code> <code>FastAPI</code> <code>scikit-learn</code>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 [OrdinaryMatter](https://github.com/Ajaypranav25/Ordinarymatter)
+**Remote control for AI coding sessions, from your phone**
+
+Lifecycle hooks stream session events to a WebSocket relay, which reaches a native mobile app through a Cloudflare Tunnel. You can monitor tasks, send prompts and get notified without opening a port.
+
+<code>Node.js</code> <code>WebSockets</code> <code>React Native</code> <code>Expo</code> <code>Cloudflare</code>
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 [ProgressIQ](https://github.com/Ajaypranav25/progressiq)
+**Diabetic retinopathy diagnosis with visual evidence**
+
+Checks fundus-image quality, grades disease severity on the 5-stage clinical scale with a ResNet-50, and overlays a Grad-CAM heatmap showing *where* the model looked.
+
+<code>PyTorch</code> <code>ResNet-50</code> <code>Grad-CAM</code> <code>FastAPI</code>
+
+</td>
+</tr>
 </table>
 
----
+<details>
+<summary><b>📂 More projects</b></summary>
+<br/>
 
-### 📊 GitHub Activity & Analytics
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| [SKIP.EXE](https://github.com/Ajaypranav25/skip-exe) · [live](https://skip-exe.vercel.app/) | Attendance planner for VIT's VTOP portal: plan skips and see projected attendance update live | JavaScript · Supabase |
+| [Digital Twin Warehouse](https://github.com/Ajaypranav25/DIGITAL-TWIN-WAREHOUSE-MANAGEMENT) | Live warehouse twin on a 15-table 3NF PostgreSQL schema, with trigger-based anomaly alerts and time-travel snapshots | PostgreSQL · PL/pgSQL |
+| [VIT Cab Share](https://github.com/Ajaypranav25/vitcabshare) | Ride sharing for VIT students, with OAuth restricted to campus emails and double-booking prevention | Flask · SQLAlchemy · OAuth 2.0 |
+| [TaskMarket](https://github.com/Ajaypranav25/TaskMarket) | Task marketplace where an LLM grades the submitted work | Django · DRF · React · PostgreSQL |
+| [AlgoTrader](https://github.com/Ajaypranav25/algotrader) | Algorithmic trading framework with backtesting and technical indicators | Python · Pandas · NumPy |
+| [SMS Spam Detection](https://github.com/Ajaypranav25/Probabilistic-SMS-Spam-Detection) | Bayes' theorem from first principles, then a Multinomial Naive Bayes classifier | Python · scikit-learn · Jupyter |
+| [Portfolio](https://github.com/Ajaypranav25/portfolio) · [live](https://portfolio-two-snowy-94.vercel.app/) | My personal site | JavaScript · Vercel |
+
+</details>
+
+## 🌍 Open source
+
+**[Astraive/AiDEX](https://github.com/Astraive/AiDEX)**, a desktop app built in Rust:
+
+| PR | Contribution |
+| :--- | :--- |
+| [#46](https://github.com/Astraive/AiDEX/pull/46) | Render code diffs with `@pierre/diffs` |
+| [#44](https://github.com/Astraive/AiDEX/pull/44) | Rebuild the setup flow as a six-step installer window |
+| [#42](https://github.com/Astraive/AiDEX/pull/42) | Build the remaining desktop and installer screens |
+| [#33](https://github.com/Astraive/AiDEX/pull/33) | Add the unlock and runtime-detection screens |
+| [#32](https://github.com/Astraive/AiDEX/pull/32) | Build the home dashboard from the shared UI kit |
+| [#43](https://github.com/Astraive/AiDEX/pull/43) | Add a Claude Code project guide for contributors |
+
+## 🧰 Toolbox
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Ajaypranav25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" alt="Ajay's GitHub Stats" height="165" />
-&nbsp;
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ajaypranav25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" height="165" />
-
+<img src="https://skillicons.dev/icons?i=python,ts,js,rust,cpp,pytorch,fastapi,django,flask,nodejs,express&perline=11" alt="Languages and backend" />
 <br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Ajaypranav25&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" alt="GitHub Streak" width="85%" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,postgres,redis,prisma,supabase,sqlite,docker,vercel,cloudflare,git,linux&perline=14" alt="Frontend, data and infrastructure" />
 
 </div>
 
----
-
-### 🤝 Let's Connect!
+## 📊 Activity
 
 <div align="center">
 
-Have a project idea, want to collaborate on an open-source tool, or just talk tech? Feel free to reach out!
-
-<br/>
-
-<a href="https://portfolio-two-snowy-94.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:ajaypranav25@gmail.com">
-  <img src="https://img.shields.io/badge/Say_Hello-ajaypranav25@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ajay" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Ajaypranav25">
-  <img src="https://img.shields.io/badge/Follow-Ajaypranav25-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-</a>
+<img src="https://github-stats-extended.vercel.app/api?username=Ajaypranav25&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed" alt="GitHub stats" height="170" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ajaypranav25&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top languages" height="170" />
 
 <br/><br/>
 
-<!-- Footer Decorative Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36&height=100&section=footer" width="100%" alt="Footer Wave" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajaypranav25/Ajaypranav25/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ajaypranav25/Ajaypranav25/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Ajaypranav25/Ajaypranav25/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+</picture>
+
+</div>
+
+<div align="center">
+
+**Building something interesting? I'd love to hear about it.** &nbsp;[Say hello →](mailto:ajaypranav25@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,45:3730a3,100:0f172a&height=110&section=footer" width="100%" alt="" />
 
 </div>
